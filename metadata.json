@@ -1,0 +1,6 @@
+{
+  "name": "MediIntel Solutions",
+  "description": "Smart Healthcare Intelligence platform for hospitals, automating NABH compliance, statutory tracking, AI clinical documentation, and insurance empanelment analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
